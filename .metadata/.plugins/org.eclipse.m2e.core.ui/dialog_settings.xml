@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\swapn\01CJ\DevOps_Tools\MavenWebAppProj04\pom.xml"/>
+			<item value="C:\Users\swapn\01CJ\DevOps_Tools\Maven_Proj01\src\main\java\com\nit\main\TestingApp.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -26,12 +28,22 @@
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
 			<item value="com.nit.main"/>
+			<item value="nit.MavenWebAppProj04"/>
+			<item value="nit.MavenWebProjt04"/>
+			<item value="nit.Maven_WepProj04"/>
+			<item value="nit.MavenWeb_Proj04"/>
 		</list>
 		<list key="groupId">
 			<item value="nit"/>
 			<item value="org.nit"/>
 		</list>
 		<list key="artifactId">
+			<item value="MavenWebAppProjt04"/>
+			<item value="MavenWebAppProj04"/>
+			<item value="MavenWebProjt04"/>
+			<item value="Maven_WepProj04"/>
+			<item value="MavenWeb_Proj04"/>
+			<item value="MavenWebProj04"/>
 			<item value="MavenProj03"/>
 			<item value="Maven-Proj02"/>
 			<item value="Maven_Proj02"/>
@@ -71,5 +83,21 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+		<list key="archetypeGroupId">
+			<item value="org.apache.maven.archetypes"/>
+		</list>
+		<list key="archetypeArtifactId">
+			<item value="maven-archetype-webapp"/>
+		</list>
+		<list key="archetypeVersion">
+			<item value="1.4"/>
+			<item value="1.5"/>
+		</list>
+		<list key="repositoryUrl">
+			<item value="https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/"/>
+			<item value=""/>
+		</list>
 	</section>
 </section>
