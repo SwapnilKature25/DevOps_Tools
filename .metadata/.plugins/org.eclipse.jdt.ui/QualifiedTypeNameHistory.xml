@@ -2,4 +2,7 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="org.springframework.jdbc.support.incrementer.Db2MainframeMaxValueIncrementer"/>
     <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="com.nit.service.MathOperations"/>
+    <fullyQualifiedTypeName name="java.lang.AssertionError"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Assertions"/>
 </qualifiedTypeNameHistroy>

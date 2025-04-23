@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\swapn\01CJ\DevOps_Tools\Maven_Proj01"/>
 			<item value="C:\Users\swapn\01CJ\DevOps_Tools\MavenWebAppProj04\pom.xml"/>
 			<item value="C:\Users\swapn\01CJ\DevOps_Tools\Maven_Proj01\src\main\java\com\nit\main\TestingApp.java"/>
 		</list>
@@ -27,6 +28,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.nit.service"/>
 			<item value="com.nit.main"/>
 			<item value="nit.MavenWebAppProj04"/>
 			<item value="nit.MavenWebProjt04"/>
@@ -38,6 +40,7 @@
 			<item value="org.nit"/>
 		</list>
 		<list key="artifactId">
+			<item value="JUnitProj01"/>
 			<item value="MavenWebAppProjt04"/>
 			<item value="MavenWebAppProj04"/>
 			<item value="MavenWebProjt04"/>
