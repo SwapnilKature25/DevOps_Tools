@@ -4,5 +4,19 @@
     <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
     <fullyQualifiedTypeName name="com.nit.service.MathOperations"/>
     <fullyQualifiedTypeName name="java.lang.AssertionError"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Assertions.TimeoutFailureFactory"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.Assertions"/>
+    <fullyQualifiedTypeName name="java.time.LocalTime"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.MethodOrderer.MethodName"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.MethodOrderer.DisplayName"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.MethodOrderer.Random"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.TestClassOrder"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.ClassOrderer.OrderAnnotation"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.ClassOrderer.DisplayName"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.ClassOrderer"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.ClassOrderer.ClassName"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.ClassOrderer.Random"/>
 </qualifiedTypeNameHistroy>
